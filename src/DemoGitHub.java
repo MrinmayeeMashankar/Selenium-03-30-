@@ -4,6 +4,7 @@ public class DemoGitHub
 	
 		int a=10;
 		int b=20;
+		int d=10;
 		int c=0;
 		
 		void addition()
